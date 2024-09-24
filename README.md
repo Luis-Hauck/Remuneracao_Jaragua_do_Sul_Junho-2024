@@ -14,6 +14,7 @@ Os dados utilizados foram obtidos de https://transparencia.betha.cloud/#/eGpEZiz
 Vale ressaltar que filtrei somenete as pessoas que trabalhavam efetivamente, excluindo pensionistas, aposentados etc...
 Além disso o arquivo em xlsx foi tratado para retirar inforamações pessoais delicadas como nome,.
 
+
 **Análise:**
 Foram realizadas as seguintes análises com base no dados:
 * Os cargos comissionados representa quantos % da remuneração total?
@@ -23,16 +24,14 @@ Foram realizadas as seguintes análises com base no dados:
 
 
 **Resultados:**
-Os resultados da análise indicam que [resumo dos principais resultados, por exemplo: "há uma grande disparidade salarial entre os cargos de gestão e os demais cargos", "a média salarial dos homens é ligeiramente superior à das mulheres"].
-
-**Insights:**
-* [Insight 1]
-* [Insight 2]
-* [Insight 3]
+* Os cargos comissinados representaram 10% da remuneração em junho sendo que os mesmos só representaram 6% dos funcionários.
+* A diferença entre cargos comissionados foi de quase 32%.
+* Os cargos mais ocupados foram de professores.
+* A maior entidade com maior remuneração média foi a FUJAMA, mas a maior entidade com gastos foia prefeitura
 
 **Observações**
-Vale ressaltar que nessa análise específica os dados não foram tratados, justamnete para encontrarmos os outliers, além disso podemos perceber que existem remunerações zeradas por serem estágios não remunerados.
-Faço uma análise completa em um dos vídeos do meu canal: https://www.youtube.com/live/-hNWhaBFDGM
+Vale ressaltar que nessa análise específica os dados não foram tratados, justamnete para encontrarmos os outliers(ex: algumas pessoas ganharam as ferias e o 13 adiantado), além disso podemos perceber que existem remunerações zeradas por serem estágios não remunerados.
+Faço a análise completa em um dos vídeos do meu canal: https://www.youtube.com/live/-hNWhaBFDGM
 
 **Contribuições:**
 Contribuições são bem-vindas! Abra um pull request para propor mudanças.
