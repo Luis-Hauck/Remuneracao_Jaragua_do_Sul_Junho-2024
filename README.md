@@ -24,7 +24,7 @@ Foram realizadas as seguintes análises com base no dados:
 
 
 **Resultados:**
-* Os cargos comissinados representaram 10% da remuneração em junho sendo que os mesmos só representaram 6% dos funcionários.
+* Os cargos comissionados representaram 10% da remuneração em junho sendo que os mesmos só representaram 6% dos funcionários.
 * A diferença entre cargos comissionados foi de quase 32%.
 * Os cargos mais ocupados foram de professores.
 * A maior entidade com maior remuneração média foi a FUJAMA, mas a maior entidade com gastos foia prefeitura
